@@ -1,3 +1,5 @@
+# Welcome
+
 This repository contains artwork and usage guidelines for the graphic mark for Open Public Art,  hosted by New American Public Art. The mark itself can be seen here:
 
 ![example mark](artwork/example.png)
